@@ -1,6 +1,7 @@
-## 率直に言って、大変お世話になりました！
+## 率直に言って、
+## 大変お世話になりました！
 東京大学大学院 新領域創成科学研究科 環境学専攻<br />
-自然環境学コース 1期-3期生 一同
+自然環境学コース 1期〜3期生 一同
 
 <a href="https://mapconcierge.github.io/thanks4kaorusaito/nenv010203/leaflet.html"><img src="https://github.com/mapconcierge/thanks4kaorusaito/blob/main/docs/nenv010203photos.jpg?raw=true" /></a>
 
