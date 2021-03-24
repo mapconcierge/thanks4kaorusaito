@@ -1,36 +1,38 @@
-## Welcome to GitHub Pages
+## 退職おめでとうございます！
 
-You can use the [editor on GitHub](https://github.com/mapconcierge/thanks4kaorusaito/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+東京大学大学院 新領域創成科学研究科 環境学専攻 自然環境学コース 1期-3期生 一同
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 山口 安希（旧姓:小松）
 
 ```markdown
-Syntax highlighted code block
+斎藤先生、ご退官おめでとうございます❗️大学院修了の時、｢小松｣から｢大松｣へ成長するようにというメッセージを頂いたのに大した成長もせず、いっそのことと名字を変えてしまいました。
 
-# Header 1
-## Header 2
-### Header 3
+私の担当教官は大変におっかない方だったので、ダンディな先生が担当のコンピュータの方に舵を切り、その後、GISの会社に就職し、今でも細々と仕事をさせてもらえているのは、｢大松｣になっていた結果かもしれません❗️
 
-- Bulleted
-- List
+それから、斎藤先生のご自宅にお邪魔させて頂いた時に、奥様が手作りのお菓子とティーバッグを詰めた小箱をお土産に下さったのに大変感動し、私も日々精進していますが主婦業もまだまだ道半ばです…。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+長々と失礼しました。これからも、お体を大切にお過ごし下さい。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 山田 徳美（旧姓:光高）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapconcierge/thanks4kaorusaito/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
+斎藤先生、ご退職おめでとうございます。
+
+私は、主人の転勤にともない数年おきに引っ越しを繰り返し、３年前から神奈川県の川崎市に暮らしています。ようやく、ここでゆっくり暮らしていけそうな感じです。丁度、上の子が小学校に入学というタイミングだったので色々落ち着くまで仕事は一旦お休み、、、で根が生えて今に至ってます。
+
+暮らしているのは多摩丘陵の緑が比較的よく残っているエリアで私はそこで日々"新しい領域”を手に入れるべくすごしています。
+
+色々と巡回し、地主さんからOKをいただいて野や山の恵みをゲットできる”領域（領地）”が拡大していっています。また、畑を借りて野菜を育てたり・・・。おいおい　それは”新領域”なのか？っと言われてしまうかもしれませんが、楽しく過ごしているのは間違いなし！なのでご容赦ください。
+
+斎藤先生が着ていたキャメル色のカシミアのコート。学生の頃、そういうコートが似合う素敵な”大人”になりたいと思っておりましたが、悲しいかな普段着はもっぱら長靴とかスニーカ＆ジーンズで闊歩しております（笑）。斎藤先生、いつまでも、変わらず素敵でおしゃれな斎藤先生でいてください。
+```
+
+
+
+
 
 ### Support or Contact
 
