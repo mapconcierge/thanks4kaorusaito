@@ -155,6 +155,7 @@ Just keep walking, persistence paid off.
 
 
 
+<img src="https://github.com/mapconcierge/thanks4kaorusaito/blob/gh-pages/nenv1999.jpeg?raw=true" />
 
 
 ### Support or Contact
